@@ -1,4 +1,3 @@
-# hexo_qwb_web
 ## Chambers' Website Laboratory
 
 - ### About Myself：
